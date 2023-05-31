@@ -1,5 +1,7 @@
-# API Clinica Medica
+>   # API Clinica Medica
 
+
+  
 ## API Rest com Spring Boot
 
 Este é um repositório contendo um projeto de API Rest desenvolvido com o Spring Boot. A finalidade deste projeto é fornecer um exemplo prático de um CRUD (Create, Read, Update e Delete) completo, juntamente com recursos de validação, paginação e ordenação.
@@ -55,9 +57,7 @@ O Insomnia é uma ferramenta de teste de APIs que permite simular requisições 
 
 O projeto consiste em um protótipo de um aplicativo para uma clínica médica fictícia chamada Voll Med. O objetivo do aplicativo é permitir o cadastro de médicos, pacientes e agendamento de consultas. 
 
-O aplicativo possui três telas principais: tela inicial, tela de pesquisa e tela de cadastro. Na tela inicial, há um logotipo da aplicação e três botões retangulares para escolher as seções: Médicos(as), Pacientes e Consultas. Ao selecionar uma seção
-
-, a tela de pesquisa é exibida, mostrando os resultados da seção selecionada em ordem alfabética. Na tela de cadastro, há um formulário com campos como nome completo, especialidade, CRM, e-mail, telefone ou celular, logradouro, número, complemento e cidade.
+O aplicativo possui três telas principais: tela inicial, tela de pesquisa e tela de cadastro. Na tela inicial, há um logotipo da aplicação e três botões retangulares para escolher as seções: Médicos(as), Pacientes e Consultas. Ao selecionar uma seção a tela de pesquisa é exibida, mostrando os resultados da seção selecionada em ordem alfabética. Na tela de cadastro, há um formulário com campos como nome completo, especialidade, CRM, e-mail, telefone ou celular, logradouro, número, complemento e cidade.
 
 ## Instruções de Uso
 
@@ -71,8 +71,14 @@ Para executar a API, siga as seguintes etapas:
 
 Fique à vontade para explorar o código-fonte e adaptar o projeto de acordo com as suas necessidades.
 
+## Links Úteis
+[Spring Initializr](https://start.spring.io/)
+
+[Insomnia](https://insomnia.rest/download)
+
 **Nota:** Lembre-se de substituir os valores das configurações do banco de dados e outras informações de acordo com o seu ambiente.
 
 Espero que este projeto seja útil para você aprender e explorar os conceitos de desenvolvimento de API Rest com o Spring Boot. Divirta-se desenvolvendo e aprimorando suas habilidades!
 
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato. Aproveite!
+
