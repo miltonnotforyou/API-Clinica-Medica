@@ -59,6 +59,12 @@ O projeto consiste em um protótipo de um aplicativo para uma clínica médica f
 
 O aplicativo possui três telas principais: tela inicial, tela de pesquisa e tela de cadastro. Na tela inicial, há um logotipo da aplicação e três botões retangulares para escolher as seções: Médicos(as), Pacientes e Consultas. Ao selecionar uma seção a tela de pesquisa é exibida, mostrando os resultados da seção selecionada em ordem alfabética. Na tela de cadastro, há um formulário com campos como nome completo, especialidade, CRM, e-mail, telefone ou celular, logradouro, número, complemento e cidade.
 
+
+![8fbad164-5b03-4efc-914a-d6736307788d](https://github.com/miltonnotforyou/API-Clinica-Medica/assets/67373586/29db2ec7-e511-4a31-877b-cac401d22e21)
+
+![b60aa0dd-bdaa-4dfa-bb3d-469ff5220ec7](https://github.com/miltonnotforyou/API-Clinica-Medica/assets/67373586/92ecce45-b369-4b63-b52e-e120839e9e82)
+
+
 ## Instruções de Uso
 
 Para executar a API, siga as seguintes etapas:
