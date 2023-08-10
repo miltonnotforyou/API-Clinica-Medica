@@ -1,6 +1,5 @@
 >   # API Clinica Medica
 
-
   
 ## API Rest com Spring Boot
 
